@@ -1,0 +1,5 @@
+field,note
+satisfaction_score,"Collected post-resolution. NOTE: during the period, the survey tool was migrated. Older tickets used a 1-5 scale; newer tickets a 1-10 scale. The source does not flag which is which."
+resolved_at,Blank means the ticket was not resolved as of extract.
+channel,Free-form from multiple systems; not standardised.
+category,Free-form from multiple systems; not standardised.
