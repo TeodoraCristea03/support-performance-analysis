@@ -1,4 +1,4 @@
-# Support Performance Analysis — Booking Holdings take-home
+# Support Performance Analysis
 Read full project details from my technical design doc: https://docs.google.com/document/d/18n-f061WSxgJf8trs7hmAv-0kxH0h0BqTfQYEokYTAs/edit?usp=sharing
 
 Analysis of ~5,000 cross-brand support tickets: how many, how fast, how customers feel, and where to focus.
